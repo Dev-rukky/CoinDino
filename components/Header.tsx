@@ -19,7 +19,7 @@ const Header = () => {
                 'is-home' : true
             })}>Home</Link>
             <p>Search</p>
-            <Link href="/coins"className={cn('nav-link',  {
+            <Link href="/coins" className={cn('nav-link',  {
                 'is-active' : pathname === '/coins'
             })}>All Crypto</Link>
         </nav>
