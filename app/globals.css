@@ -411,7 +411,7 @@
     }
   }
 
-  #coin-overview-fallback {
+  #crypto-overview-fallback {
     @apply w-full h-full xl:col-span-2 px-2 bg-dark-500 rounded-xl;
 
     .header {
@@ -811,7 +811,7 @@
     }
   }
 
-  #coin-overview {
+  #crypto-overview {
     @apply w-full h-full xl:col-span-2 px-2 bg-dark-500 rounded-xl;
 
     .header {
